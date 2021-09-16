@@ -1012,7 +1012,7 @@ ul.two-part-sp li{
     left: 20px;
 }
 .overlay-content h2 {
-    color: #fff;
+    color: rgb(0, 0, 0);
     font-size: 20px;
     font-weight: 700;
     left: 20px;
@@ -1068,20 +1068,20 @@ ul.two-part-sp li{
     width: 28px;
 }
 .product-action a {
-    border: 1px solid #ddd;
+    border: 1px solid black;
     display: block;
     height: 35px;
     line-height: 35px;
     text-align: center;
     width: 35px;
-	color:#fff;
+	color:rgb(4, 156, 156);
 }
 .featured-product-list .overlay-content h4 {
     left: 20px;
 }
 .overlay-content h4 {
     bottom: 20px;
-    color: #fff;
+    color: black;
     font-size: 20px !important;
     font-weight: 700;
     left: 20px;
