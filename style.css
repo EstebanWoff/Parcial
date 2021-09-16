@@ -1528,7 +1528,7 @@ ul#single-product-tab li{
 }
 .color-quality {
   float: left;
-  margin: 0px 90px;
+ 
 }
 .pro-quantity-changer a {
   border: 1px solid #ececec;
@@ -1685,6 +1685,7 @@ ul.tab-custon-design li a, ul.tab-custon-design li a:hover, ul.tab-custon-design
 }
 ul.tab-custon-design li.active a, ul.tab-review-design li.active a{
 	color:#fff !important;
+    margin: 20px;
 }
 .hpanel .panel-body {
     background: #fff;
